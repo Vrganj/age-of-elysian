@@ -1,5 +1,5 @@
-<div class="row mb-4">
-	<div class="col-12 col-md-7">
+<div class="row">
+	<div class="col-12 col-md-7 mb-4">
 		<h1 class="text-center mb-3">Welcome to Age of Elysian</h1>
 		<p style="text-align: justify">
 			Age of Elysian is a server that has been in business for more than half a decade, and we've
@@ -21,7 +21,7 @@
 			answer all your questions.
 		</p>
 	</div>
-	<div class="col-12 col-md-5 d-flex flex-wrap align-items-center">
+	<div class="col-12 col-md-5 mb-4 d-flex flex-wrap align-items-center">
 		<img
 			class="img-fluid mx-auto d-block align-middle"
 			src="/images/favicon.png"
@@ -31,8 +31,8 @@
 		/>
 	</div>
 </div>
-<div class="row mb-4">
-	<div class="col-12 col-md-6">
+<div class="row">
+	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">What we're offering</h1>
 		<ul style="padding-left: 1rem; text-align: justify">
 			<li>
@@ -54,7 +54,7 @@
 			<li>Skin support for both cracked and premium accounts</li>
 		</ul>
 	</div>
-	<div class="col-12 col-md-6">
+	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">Slimefun</h1>
 		<p style="text-align: justify" class="mb-1">
 			Slimefun is a plugin which aims to basically turn your Bukkit Server into a modpack like
@@ -75,8 +75,8 @@
 		</p>
 	</div>
 </div>
-<div class="row mb-4">
-	<div class="col-12 col-md-6">
+<div class="row">
+	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">Towny</h1>
 		<p style="text-align: justify">
 			Towny is a plugin that introduces a way of creating towns with grid-like land protection and
@@ -100,7 +100,7 @@
 			disbanded.
 		</p>
 	</div>
-	<div class="col-12 col-md-6 d-flex flex-wrap align-items-center">
+	<div class="col-12 col-md-6 mb-4 d-flex flex-wrap align-items-center">
 		<div id="carouselTowns" class="carousel slide" data-bs-ride="carousel">
 			<div class="carousel-indicators">
 				<button
