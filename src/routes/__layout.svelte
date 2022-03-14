@@ -67,12 +67,3 @@
 <div class="container-sm my-3 pb-5 my-sm-5">
 	<slot />
 </div>
-<button
-	type="button"
-	class="btn btn-secondary"
-	data-bs-toggle="tooltip"
-	data-bs-placement="top"
-	title="Tooltip on top"
->
-	Tooltip on top
-</button>
