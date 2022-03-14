@@ -24,7 +24,7 @@
 	<div class="col-12 col-md-5 d-flex flex-wrap align-items-center">
 		<img
 			class="img-fluid mx-auto d-block align-middle height-100"
-			src="/static/favicon.png"
+			src="/favicon.png"
 			width="384"
 			height="384"
 			alt="logo"
