@@ -19,10 +19,19 @@
 	});
 </script>
 
-<nav class="navbar navbar-expand-sm navbar-dark" style="background-image: url('/navbar.png')">
+<nav
+	class="navbar navbar-expand-sm navbar-dark"
+	style="background-image: url('/images/navbar.png')"
+>
 	<div class="container-fluid">
 		<a class="navbar-brand" href="/">
-			<img src="/favicon.png" alt="" width="38" height="38" class="d-inline-block align-text-top" />
+			<img
+				src="/images/favicon.png"
+				alt=""
+				width="38"
+				height="38"
+				class="d-inline-block align-text-top"
+			/>
 		</a>
 		<button
 			class="navbar-toggler"
