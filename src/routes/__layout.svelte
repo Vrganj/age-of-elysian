@@ -74,6 +74,6 @@
 	</div>
 </nav>
 
-<div class="container-sm my-3 pb-5 my-sm-5">
+<div class="container-sm pt-3 pb-5 py-sm-5">
 	<slot />
 </div>
