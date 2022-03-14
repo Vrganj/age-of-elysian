@@ -34,7 +34,7 @@
 <div class="row mb-4">
 	<div class="col-12 col-md-6">
 		<h1 class="text-center mb-3">What we're offering</h1>
-		<ul class="m-0">
+		<ul style="padding-left: 1rem; text-align: justify">
 			<li>
 				An amazingly entertaining and helpful community. We also have a <a href="/discord"
 					>Discord server</a
@@ -53,5 +53,51 @@
 			<li>A ranking system based on playtime that can improve all sorts of skills</li>
 			<li>Skin support for both cracked and premium accounts</li>
 		</ul>
+	</div>
+	<div class="col-12 col-md-6">
+		<h1 class="text-center mb-3">Slimefun</h1>
+		<p style="text-align: justify" class="mb-1">
+			Slimefun is a plugin which aims to basically turn your Bukkit Server into a modpack like
+			FeedTheBeast, IndustrialCraft2 or Tekkit without installing a single mod. It offers everything
+			you could possibly imagine. From Backpacks to Jetpacks... It introduces a way of automating
+			almost every task there is. We also have a couple of Slimefun addons, such as:
+		</p>
+		<ul style="padding-left: 1rem">
+			<li>
+				<b>Exotic Garden</b> which adds tons of new food types and ways of growing precious ores
+			</li>
+			<li><b>ExtraGear</b> that adds new and improved armor and tools</li>
+		</ul>
+		<p>
+			Also, we have a custom made slimefun-specific resource pack, that makes crafting much easier
+			and generally improves its visuals. For more information about how to download and install the
+			resource pack, check out the <a href="/resource-pack">resource pack</a> page.
+		</p>
+	</div>
+</div>
+<div class="row mb-4">
+	<div class="col-12 col-md-6">
+		<h1 class="text-center mb-3">Towny</h1>
+		<p style="text-align: justify">
+			Towny is a plugin that introduces a way of creating towns with grid-like land protection and
+			an intricate permission system. Each town has a mayor, and each nation has a king. They both
+			have their own assistants, builders and other town staff to help manage their respective
+			people. Players can also purchase land from the town, As well as pay an optional daily tax set
+			by the mayor. The player can allow his friends from out of town to build on his land when even
+			his very own town's residents can't build if he so wishes, anything is possible.
+		</p>
+		<p style="text-align: justify">
+			The basis of protecting and claiming land is based on chunks. The whole world is split into
+			16x16 sections of blocks, and each one is claimable by a town. Each town can claim up to a
+			certain amount of townblocks, that scales with the town rank. Town ranks change with your town
+			population growing. For example, a town with 2 members is considered a Hamlet, while a town
+			with 30 members will be called a Metropolis. The more people you have, the more land you can
+			claim!
+		</p>
+		<p style="text-align: justify">
+			But beware: there is a town upkeep, that every town must pay daily. Each chunk costs a certain
+			amount of money for it to be claimed for a day. Fail to pay the upkeep, and your town will be
+			disbanded.
+		</p>
 	</div>
 </div>

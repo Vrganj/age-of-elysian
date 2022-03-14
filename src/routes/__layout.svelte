@@ -1,5 +1,21 @@
 <script>
 	import { page } from '$app/stores';
+	import { onMount } from 'svelte';
+
+	let link, tooltip;
+	let hideTimeout;
+
+	function copyLink(event) {
+		clearTimeout(hideTimeout);
+		hideTimeout = setTimeout(() => tooltip.hide(), 1000);
+		navigator.clipboard.writeText('play.ageofelysian.com');
+	}
+
+	onMount(() => {
+		tooltip = new bootstrap.Tooltip(link, {
+			trigger: 'click'
+		});
+	});
 </script>
 
 <nav class="navbar navbar-expand-sm navbar-dark" style="background-image: url('/navbar.png')">
@@ -35,16 +51,28 @@
 					>
 				</li>
 			</ul>
+			<a
+				href="/"
+				class="d-flex"
+				data-bs-toggle="tooltip"
+				data-bs-placement="bottom"
+				title="Copied to clipboard"
+				bind:this={link}
+				on:click={copyLink}>play.ageofelysian.com</a
+			>
 		</div>
 	</div>
 </nav>
 
-<div class="container-sm my-3 my-sm-5">
+<div class="container-sm my-3 pb-5 my-sm-5">
 	<slot />
 </div>
-
-<nav class="navbar fixed-bottom navbar-dark" style="background-color: #1d1d1d">
-	<div class="container-fluid">
-		<a class="navbar-brand" href="#">Fixed bottom</a>
-	</div>
-</nav>
+<button
+	type="button"
+	class="btn btn-secondary"
+	data-bs-toggle="tooltip"
+	data-bs-placement="top"
+	title="Tooltip on top"
+>
+	Tooltip on top
+</button>
