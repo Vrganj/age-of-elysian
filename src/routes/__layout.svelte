@@ -6,6 +6,7 @@
 	let hideTimeout;
 
 	function copyLink(event) {
+		event.preventDefault();
 		clearTimeout(hideTimeout);
 		hideTimeout = setTimeout(() => tooltip.hide(), 1000);
 		navigator.clipboard.writeText('play.ageofelysian.com');
