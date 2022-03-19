@@ -60,6 +60,9 @@
 						>Discord</a
 					>
 				</li>
+				<li class="nav-item">
+					<a href="http://dynmap.ageofelysian.com/" class="nav-link" target="_blank">Dynmap</a>
+				</li>
 			</ul>
 			<a
 				href="/"
