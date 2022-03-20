@@ -1,7 +1,7 @@
 <div class="row">
 	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">Wait, what?</h1>
-		<p style="text-align: justify">
+		<p>
 			Slimefun can be confusing at times. All those dusts and ingots that look the same... Crafting
 			even the medium-tier items can get very difficult and time cosuming, and may ruin your playing
 			experience. That's where our special, carefully made resource pack comes into play. With
@@ -33,4 +33,5 @@
 	width="480"
 	alt="Resource pack example"
 	class="mx-auto d-block mt-4"
+	style="max-width: 100%"
 />

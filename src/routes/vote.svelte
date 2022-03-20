@@ -13,7 +13,7 @@
 <div class="row">
 	<div class="col-12 col-md-12 mb-4">
 		<h1 class="text-center mb-3">Why vote for us?</h1>
-		<p style="text-align: justify">
+		<p>
 			Voting for the server helps us out and for voting you will receive a monetary reward in-game.
 			It might not seem like much, but voting is really important for servers. It is the best way
 			for new players to find their way onto the server and it would be great if you could take the

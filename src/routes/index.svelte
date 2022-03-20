@@ -1,19 +1,19 @@
 <div class="row">
 	<div class="col-12 col-md-7 mb-4">
 		<h1 class="text-center mb-3">Welcome to Age of Elysian</h1>
-		<p style="text-align: justify">
+		<p>
 			Age of Elysian is a server that has been in business for more than half a decade, and we've
 			amassed quite a community during that time. Most player-suggested features have found their
 			way to the server, and nowadays we are likely to be the most feature-packed cracked
 			Slimefun-Towny server with rpg elements, with an up-to-date slimefun.
 		</p>
-		<p style="text-align: justify">
+		<p>
 			We are currently in a state of an Open Beta, so some bugs may be present. Don't worry though,
 			our staff team is working hard to iron out any potential issues, so your playing experience
 			isn't impaired. The server is un-modded, but client modifications like optifine are
 			encouraged.
 		</p>
-		<p style="text-align: justify">
+		<p>
 			The server is cracked, so everyone is free to join. Unlike some other cracked servers,
 			however, we host an experienced team of staff well aware of the risks of running an
 			offline-mode server, and are more than capable with dealing with anything the script-kiddies
@@ -78,7 +78,7 @@
 <div class="row">
 	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">Towny</h1>
-		<p style="text-align: justify">
+		<p>
 			Towny is a plugin that introduces a way of creating towns with grid-like land protection and
 			an intricate permission system. Each town has a mayor, and each nation has a king. They both
 			have their own assistants, builders and other town staff to help manage their respective
@@ -86,7 +86,7 @@
 			by the mayor. The player can allow his friends from out of town to build on his land when even
 			his very own town's residents can't build if he so wishes, anything is possible.
 		</p>
-		<p style="text-align: justify">
+		<p>
 			The basis of protecting and claiming land is based on chunks. The whole world is split into
 			16x16 sections of blocks, and each one is claimable by a town. Each town can claim up to a
 			certain amount of townblocks, that scales with the town rank. Town ranks change with your town
@@ -94,7 +94,7 @@
 			with 30 members will be called a Metropolis. The more people you have, the more land you can
 			claim!
 		</p>
-		<p style="text-align: justify">
+		<p>
 			But beware: there is a town upkeep, that every town must pay daily. Each chunk costs a certain
 			amount of money for it to be claimed for a day. Fail to pay the upkeep, and your town will be
 			disbanded.

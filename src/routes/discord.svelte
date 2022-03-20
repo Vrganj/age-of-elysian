@@ -1,7 +1,7 @@
 <div class="row">
 	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">Our Discord server</h1>
-		<p style="text-align: justify">
+		<p>
 			We have a highly social, active and friendly community on our Discord server. Even if you're
 			not really into Minecraft or are just taking a break, feel free to join and spend some time
 			with us! All your suggestions left there will be carefully evaluated by our staff team, and it
