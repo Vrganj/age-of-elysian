@@ -20,7 +20,7 @@
 </script>
 
 <nav
-	class="navbar navbar-expand-sm navbar-dark"
+	class="navbar navbar-expand-md navbar-dark"
 	style="background-image: url('/images/navbar.png')"
 >
 	<div class="container-fluid">

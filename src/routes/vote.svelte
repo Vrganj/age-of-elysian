@@ -11,7 +11,7 @@
 </script>
 
 <div class="row">
-	<div class="col-12 col-md-8 mb-4">
+	<div class="col-12 col-md-12 mb-4">
 		<h1 class="text-center mb-3">Why vote for us?</h1>
 		<p style="text-align: justify">
 			Voting for the server helps us out and for voting you will receive a monetary reward in-game.
@@ -22,21 +22,19 @@
 			the voting links in one place.
 		</p>
 	</div>
-	<div class="col-12 col-md-4 mb-4">
-		<div class="card" style="background-color: #1d1d1d">
-			<div class="card-body">
-				<ul>
-					{#each sites as site, i}
-						<li>
-							<a
-								href={site[1]}
-								target="_blank"
-								on:click={() => (localStorage[site[0]] = new Date().getTime())}>{site[0]}</a
-							>
-						</li>
-					{/each}
-				</ul>
+</div>
+<div class="row">
+	{#each sites as site, i}
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">
+			<div class="card text-center" style="background-color: #1d1d1d">
+				<div class="card-body">
+					<a
+						href={site[1]}
+						target="_blank"
+						on:click={() => (localStorage[site[0]] = new Date().getTime())}>{site[0]}</a
+					>
+				</div>
 			</div>
 		</div>
-	</div>
+	{/each}
 </div>

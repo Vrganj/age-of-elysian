@@ -17,7 +17,7 @@
 	</div>
 	<div class="col-12 col-md-6 mb-4">
 		<h1 class="text-center mb-3">Link your Minecraft account</h1>
-		<ol style="padding-left: 1rem">
+		<ol style="padding-left: 1rem; text-align: justify">
 			<li class="mb-1">
 				Join the server, register, then use the command "/discord" to receive an invitation link and
 				join our Discord server if you haven't already.

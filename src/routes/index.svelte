@@ -62,7 +62,7 @@
 			you could possibly imagine. From Backpacks to Jetpacks... It introduces a way of automating
 			almost every task there is. We also have a couple of Slimefun addons, such as:
 		</p>
-		<ul style="padding-left: 1rem">
+		<ul style="padding-left: 1rem; text-align: justify">
 			<li>
 				<b>Exotic Garden</b> which adds tons of new food types and ways of growing precious ores
 			</li>
