@@ -70,6 +70,9 @@
 				<li class="nav-item">
 					<a href="http://dynmap.ageofelysian.com/" class="nav-link" target="_blank">Dynmap</a>
 				</li>
+				<li class="nav-item">
+					<a class="nav-link" class:active={$page.url.pathname === '/team'} href="/team">Team</a>
+				</li>
 			</ul>
 			<a
 				href="/"
