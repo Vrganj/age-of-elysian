@@ -112,16 +112,24 @@
 				/>
 				<button type="button" data-bs-target="#carouselTowns" data-bs-slide-to="1" />
 				<button type="button" data-bs-target="#carouselTowns" data-bs-slide-to="2" />
+				<button type="button" data-bs-target="#carouselTowns" data-bs-slide-to="3" />
+				<button type="button" data-bs-target="#carouselTowns" data-bs-slide-to="4" />
 			</div>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img src="/images/towns/screenshot_choom.png" class="d-block w-100" alt="Choom" />
+					<img src="/images/carousel/ps_2.png" class="d-block w-100 h-100" alt="Palm Spring" />
 				</div>
 				<div class="carousel-item">
-					<img src="/images/towns/screenshot_syndria.png" class="d-block w-100" alt="Syndria" />
+					<img src="/images/carousel/Critical_Mass.png" class="d-block w-100 h-100" alt="Critical Mass" />
 				</div>
 				<div class="carousel-item">
-					<img src="/images/towns/screenshot_uprising.png" class="d-block w-100" alt="Uprising" />
+					<img src="/images/carousel/spawn.png" class="d-block w-100" alt="Spawn" />
+				</div>
+				<div class="carousel-item">
+					<img src="/images/carousel/ps_1.png" class="d-block w-100" alt="Palm Spring" />
+				</div>
+				<div class="carousel-item">
+					<img src="/images/carousel/lobby.png" class="d-block w-100" alt="Lobby" />
 				</div>
 			</div>
 			<button
