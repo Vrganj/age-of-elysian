@@ -21,7 +21,7 @@
 
 <nav
 	class="navbar navbar-expand-md navbar-dark"
-	style="background-image: url('/images/navbar.png')"
+	style="background-image: url('/images/navbar.webp')"
 >
 	<div class="container-fluid">
 		<a class="navbar-brand" href="/">
